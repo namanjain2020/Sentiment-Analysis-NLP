@@ -5,7 +5,6 @@ This project performs sentiment analysis on text data using deep learning and NL
 
 # Features
 Text preprocessing using NLP libraries (NLTK, spaCy)
-
-# Word embeddings using Gensim
-# Deep learning models with PyTorch
-# Sentiment classification with neural networks
+Word embeddings using Gensim
+Deep learning models with PyTorch
+Sentiment classification with neural networks
